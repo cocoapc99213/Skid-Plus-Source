@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "crepeplus",
+    "name": "CrepePlus",
+    "description": "1.12.2 Anarchy PvP Client",
+    "version": "β0.1",
+    "mcversion": "1.12.2",
+    "logoFile": "backdayp.png",
+    "url": "https://discord.gg/9uu7MH6htJ",
+    "updateUrl": "",
+    "authorList": [
+      "waffle"
+    ],
+    "screenshots": [
+        "backdayp.png"
+    ],
+    "dependencies": []
+  }
+]

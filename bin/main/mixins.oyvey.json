@@ -1,0 +1,24 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.meron.strawberry.mixin.mixins",
+  "refmap": "mixins.oyvey.refmap.json",
+  "mixins": [
+    "MixinBlockLiquid",
+    "MixinEntityPlayer",
+    "MixinEntityPlayerSP",
+    "MixinEntityRenderer",
+    "MixinGuiNewChat",
+    "MixinGuiPlayerTabOverlay",
+    "MixinGuiScreen",
+    "MixinItemRenderer",
+    "MixinMinecraft",
+    "MixinModelPlayer",
+    "MixinNetworkManager",
+    "MixinPlayerControllerMP",
+    "MixinRenderEnderCrystal",
+    "MixinRenderLivingBase",
+    "MixinWorld",
+    "MixinAbstractClientPlayer"
+  ]
+}
